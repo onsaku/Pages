@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Anandakrishnan U
+### onsaku@gmail.com
 
-You can use the [editor on GitHub](https://github.com/onsaku/Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aspirant AI Engineer currently persuing M-Tech in AI
 
 ### Markdown
 
